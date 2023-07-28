@@ -1,0 +1,21 @@
+@take salary input from user:
+@user will enter monthly salary
+eg: 20000 pm 20000 *12  240k
+-----------------------------
+1) if user's salary is greater than 10 lakh he/she is eligible for home loan
+2) if user's salary is greater than 5 lakh he/she is eligible for car loan
+3) if user's salary is greater than 3 lakh he/she is eligible for personal loan
+4) if user's salary is greater than 2 lakh he/she is eligible for credit card
+        1)if salary is greater then  3 lakh he/she is eligible for get 3 lack credit card limit
+        2)if salary is greater then  2 lakh he/she is eligible for get 2 lack credit card limit
+5) if user's salary is greater than 1 lakh he/she is eligible for debit card
+
+
+loops:
+
+print table of given number
+print fibonacci series eg     1  1  2 3 5 8 13 21 34 55 
+
+
+
+

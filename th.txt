@@ -1,0 +1,69 @@
+scripting...
+1
+2
+3
+4
+5
+5
+
+
+main()
+
+python is scripting language....
+
+statically typed language 
+    defining data type is mandatory
+dynamic typed language
+    defining data type is not mandatory
+
+compiler 
+    
+interpreter
+
+operators: operators are used to perform operations on variables and values.
+arithmetic operators +,-,*,/,%,//,** , // floor division, ** exponentiation
+logical operators and, or, not
+relational operators <,>,<=,>=,==,!=
+asiignment operators =,+=,-=,*=,/=,%=,//=,**=
+bitwise operators &,|,^,~,<<,>>
+membership operators in, not in
+identity operators is, is not
+
+
+swaping no:
+no1 = 10
+no2 = 20
+
+
+decsion making statements:
+if else
+loops
+
+bloack {}
+
+
+no % 2 ==0 and no >50
+and
+
+t    t   t
+f    -   f
+t    f   f
+
+or
+
+t  -   t
+f  t   t
+f  f   f
+
+entry control loop
+
+for   : startin point, ending point
+while : when to stop we dont know
+
+
+153 is an armstrong no
+
+ 3     3     3
+1   + 5   + 3    = 153
+
+1 + 125 + 27 = 153

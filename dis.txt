@@ -1,0 +1,60 @@
+PROJECT management
+
+1 ->
+
+team --> task create --> Impl login module --> 36 hours, priority
+team whom ??
+developer -->
+complted status
+JIRA, clickup
+
+20 deve
+2 test
+2 proj mangaer
+
+exp manager --->
+
+user regi -->
+income ---> 100000 , 50000
+add exp -->
+
+amount -->
+desc -->
+cat -->
+
+---------
+list of exp -->
+----------------
+
+chart -->
+
+online doctor
+-------------\
+
+
+role --> doctor pai admin
+
+
+local service
+-------------
+
+service provider
+end user
+----------------
+python : 
+frontend : django template
+backend  : django web
+database : postgres sql
+
+preq : python 3, html ans css and js
+
+MERN :
+frontend : react js
+backend  : node js
+database : mongo db
+
+
+preq: js,html,css
+
+
+
