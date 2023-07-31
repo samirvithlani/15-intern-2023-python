@@ -67,3 +67,68 @@ while : when to stop we dont know
 1   + 5   + 3    = 153
 
 1 + 125 + 27 = 153
+
+
+DS --> list , tuple, dictonary, set ,Array 
+
+array :-> array is a collection of similar data type elements
+10 student marks store s1marks,s2marks,s3marks,s4marks,s5marks,s6marks,s7marks,s8marks,s9marks,s10marks'
+1000,100000 ,
+[index] index starts from 0
+1 --> 0th index
+nth index --> n-1
+1000 --> 999 1000-1
+
+list:
+list is a collection of different data type elements
+list is mutable --> we can change the data
+list is ordered --> we can access the data using index
+list allows duplicate elements
+list allows hetrogenous data
+list is represented by []
+list is dynamic
+
+#list comprehension
+
+tuple:
+tuple is a collection of different data type elements
+tuple is immutable --> we cannot change the data
+tuple is ordered --> we can access the data using index
+tuple allows duplicate elements
+tuple allows hetrogenous data
+tuple is represented by ()
+tuple is static --> we cannot change the size of tuple
+
+aadhar card number -->
+address --> list
+name --> list
+bank balance --> list
+
+-->50 --> 10 --> 
+
+index --->
+col ->
+sp -> 
+
+key value pair --> dictonary
+{key:value}
+username:password
+
+dict does have comprehsion
+
+#set ---> set is a collection of unique elements hw
+
+#function --->function is a block of code which is used to perform a specific task
+
+type of function 
+1. predefine function
+2. user define function
+
+4 types of function
+1. no arg no return value
+2. no arg with return value
+3. with arg no return value
+4. with arg with return value
+
+
+
